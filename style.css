@@ -14,8 +14,13 @@ header{
     justify-content: center;
     align-items: center;
 }
+nav{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
 .nav-list{ 
-    width: 40%;
+
     margin: 10px auto;
     display: flex;
     column-gap: 20px;
