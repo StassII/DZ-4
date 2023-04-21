@@ -18,7 +18,7 @@ header{
     width: 40%;
     margin: 10px auto;
     display: flex;
-    column-gap: 30px;
+    column-gap: 20px;
 }
 .nav-item{ 
     position: relative;
